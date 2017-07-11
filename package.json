@@ -1,0 +1,19 @@
+{
+  "name": "cmtest",
+  "version": "1.0.0",
+  "description": "Node.js 测试模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiaLinZeng/cmtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiaLinZeng/cmtest/issues"
+  },
+  "homepage": "https://github.com/JiaLinZeng/cmtest#readme"
+}
